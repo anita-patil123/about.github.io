@@ -1,8 +1,11 @@
-# about.github.io
 <h1 align="center">Hi 👋, I'm anita patil</h1>
 <h3 align="center">A passionate mern stack developer from India</h3>
 
-- 💬 Ask me about **react js**
+- 🌱 I’m currently learning **Express.js,React,Node.js,MongoDB**
+
+- 👨‍💻 All of my projects are available at [https://github.com/anita-patil123](https://github.com/anita-patil123)
+
+- 💬 Ask me about **React , Node.js**
 
 - 📫 How to reach me **patil.b.anita@gmail.com**
 
